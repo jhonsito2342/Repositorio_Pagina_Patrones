@@ -1,0 +1,69 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 7/07/2025, 3:24:36 p. m.
+    Author     : Jhon
+*/
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #fdf6f0;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-color: #6d6875;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 30px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #b5838d;
+    color: white;
+}
+
+tr:hover {
+    background-color: #f0efeb;
+}
+
+button {
+    background-color: #ffb4a2;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e5989b;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #6d6875;
+    color: white;
+}
+
